@@ -66,7 +66,7 @@ WebTemplate
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Adrian-Ramirez-Rodriguez/WebTemplate.git
+   git clone https://github.com/Adrian-Ramirez-Rodriguez/Web-Template.git
    cd WebTemplate
    ```
 
